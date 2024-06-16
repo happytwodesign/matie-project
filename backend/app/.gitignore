@@ -1,0 +1,24 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite3
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace.env
+.env
